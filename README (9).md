@@ -110,5 +110,5 @@ Heart-Health-Analysis/
 
 ##  Author
 
-**Vipul Raj**
+**ALIYA MUSKAAN**
 <img width="1536" height="1024" alt="Heart heath analysis" src="https://github.com/user-attachments/assets/349bc485-1641-40e4-ab3b-9d9e4913f380" />
