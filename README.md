@@ -104,4 +104,4 @@ Heart-Health-Analysis/
 
 ##  Dashboard Preview
 
-(Add your dashboard screenshot here)
+![alt text](https://github.com/allyapeace22/-EDA-on-Heart-health-analysis/blob/4a8a8cac8478c6284ca4317da3ca9a27dd72b4c8/Heart%20health%20Dashboard%20(1).png)
